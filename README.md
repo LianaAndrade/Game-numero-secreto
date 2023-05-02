@@ -5,3 +5,4 @@ https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API
 
 This project is part of one of Alura's front-end courses.
 
+View game: https://game-numero-secreto-mocha.vercel.app/
